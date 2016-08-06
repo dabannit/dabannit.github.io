@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
-title                    : "Dabannit"
+locale                   : "ar"
+title                    : "دابانيت"
 title_separator          : "-"
-name                     : Dabannit
+name                     : دابانيت
 description              : 
 url                      : http://www.dabannit.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
